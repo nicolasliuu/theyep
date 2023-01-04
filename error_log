@@ -1,0 +1,9 @@
+[30-Sep-2022 19:20:03 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/wzshwyq7/theyep.org/wp-settings.php on line 33
+[30-Sep-2022 19:20:03 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home3/wzshwyq7/theyep.org/wp-settings.php on line 33
+[30-Sep-2022 19:20:03 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home3/wzshwyq7/theyep.org/wp-settings.php on line 33
+[30-Sep-2022 19:20:03 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/version.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/wzshwyq7/theyep.org/wp-settings.php on line 33
+[30-Sep-2022 19:20:06 America/Chicago] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home3/wzshwyq7/theyep.org/wp-settings.php on line 33
+[30-Sep-2022 19:20:06 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home3/wzshwyq7/theyep.org/wp-settings.php on line 33
+[30-Sep-2022 19:20:06 America/Chicago] PHP Warning:  require(ABSPATHwp-includes/version.php): failed to open stream: No such file or directory in /home3/wzshwyq7/theyep.org/wp-settings.php on line 33
+[30-Sep-2022 19:20:06 America/Chicago] PHP Fatal error:  require(): Failed opening required 'ABSPATHwp-includes/version.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home3/wzshwyq7/theyep.org/wp-settings.php on line 33
+[22-Nov-2022 03:20:12 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
